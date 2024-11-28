@@ -1,0 +1,8 @@
+SUDOKU-SOLVER
+
+Enter prolem into "sudokuGrid.txt"
+compile sudokuSolver.c with
+- gcc -o sudokuSolver sudokuSolver.c
+
+then run with
+- sudokuSolver.exe
