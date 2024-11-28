@@ -1,8 +1,11 @@
 SUDOKU-SOLVER
 
 Enter prolem into "sudokuGrid.txt"
-compile sudokuSolver.c with
-- gcc -o sudokuSolver sudokuSolver.c
+
+then compile sudokuSolver.c with
+  gcc -o sudokuSolver sudokuSolver.c
 
 then run with
-- sudokuSolver.exe
+  ./sudokuSolver
+
+solved puzzle will be in "output.txt"
